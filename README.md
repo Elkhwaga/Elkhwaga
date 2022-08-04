@@ -12,7 +12,7 @@
 
 ##
 <br/>
-<div style="display: inline_block">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elkhwaga&show_icons=true&theme=react&include_all_commits=false&count_private=false&layout=compact&hide_border=true" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhwaga&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="margin-left: auto" />
