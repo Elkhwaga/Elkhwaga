@@ -12,6 +12,13 @@
 
 ##
 <br/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elkhwaga&show_icons=true&theme=react&include_all_commits=false&count_private=false&layout=compact&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhwaga&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="margin-left: auto" />
+</div>
+##
+<br/>
 <div align="center">
   <a href="https://twitter.com/Mohamed82876773" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
