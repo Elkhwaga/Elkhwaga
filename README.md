@@ -2,7 +2,7 @@
 <h3 align="center">A Full stack developer from Egypt</h3>
 <br/>
 
-- 🔭 I’m currently working on [angular-demo](https://github.com/Elkhwaga/angular-demo)
+#- 🔭 I’m currently working on [angular-demo](https://github.com/Elkhwaga/angular-demo)
 - 🌱 I’m currently learning Angular
 - ❓ Ask me about anything related to the MERN stack and related technologies
 - 📫 How to reach me **mohamedelkhwaga9@gmail.com**
