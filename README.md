@@ -2,8 +2,8 @@
 <h3 align="center">A Full stack developer from Egypt</h3>
 <br/>
 
-- 🔭 I’m currently working on [angular-demo](https://github.com/Elkhwaga/angular-demo)
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working on [C++_Problem]
+- 🌱 I’m currently learning C++
 - ❓ Ask me about anything related to the MERN stack and related technologies
 - 📫 How to reach me **mohamedelkhwaga9@gmail.com**
 - 👨‍💻 All of my projects are availab [https://github.com/Elkhwaga?tab=repositories](https://github.com/Elkhwaga?tab=repositories)
