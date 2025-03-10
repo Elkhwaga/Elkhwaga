@@ -13,10 +13,8 @@
 ##
 <br/>
 <div>
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dark&preferLogin=true">    <img  alt="Elkhwaga's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Elkhwaga?cardType=level-alternate&theme=dark&preferLogin=true" />  </a>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhwaga&theme=dark&show_icons=true&hide_border=false&layout=compact" style="margin-left: auto" />
-                           
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elkhwaga&theme=dark&show_icons=true&hide_border=false&count_private=true" style="margin-left: auto" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhwaga&theme=dark&show_icons=true&hide_border=false&layout=compact" style="margin-left: auto" />                      
 </div>
 <br/>
 <div align="center">
